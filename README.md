@@ -15,7 +15,7 @@ http://jessrules.com/).
 
 **Development year(s)**: `2014`
 
-**Authors**: [ShadowTemplate](https://github.com/ShadowTemplate), Marcello
+**Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate), Marcello
 
 ---
 ## Getting Started
